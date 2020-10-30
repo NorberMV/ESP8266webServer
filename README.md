@@ -1,2 +1,2 @@
 # ESP8266webServer
-A WeMos D1 mini sending analog data to a web page.
+Setting up an <p style ="font-style: italic;">ESP8266 SOC(WeMos D1 mini)</p> sending analog data to a web page.
